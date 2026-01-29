@@ -8,14 +8,14 @@ Sometimes I’m deep into a larger Arduino build, other times I’m poking aroun
 I’m not a master of everything, but I understand tech fast and reliably:  
 - General networking knowledge  
 - Solid technical intuition across systems  
-- Basics in C++ (and therefore minimal C)  
+- Basics in C++, C and C#
 - Bash  
-- Understanding Python concepts (but not writing it… yet)  
-- Tools like **msf**, **Nmap**, and whatever else looks interesting that day
+- Understanding Python concepts and the foundation to use it.
+- Tools like **msf**, **Nmap**, and whatever else looks interesting that day.
 
 ### 🔬 How I work
 I experiment constantly — sometimes with a plan, sometimes with pure curiosity.  
-But when something clicks and progress comes fast, I lock in hard. In those moments, I can crank out thousands of lines of code a day… assuming I actually know the language well enough to do it.
+But when something clicks and progress comes fast, I lock in hard. In those moments, I can crank out thousands of lines of code a day… assuming I actually know the language well enough to do so.
 
 ### 🧭 Motto
 **“Build stuff, break stuff, repair.  
